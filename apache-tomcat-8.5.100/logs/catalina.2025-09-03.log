@@ -1,0 +1,190 @@
+03-Sep-2025 10:47:05.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.100
+03-Sep-2025 10:47:05.834 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 13:54:42 UTC
+03-Sep-2025 10:47:05.834 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.100.0
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.1+8-16
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Sep-2025 10:47:05.835 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:47:05.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:47:05.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Sep-2025 10:47:05.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Sep-2025 10:47:05.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Sep-2025 10:47:05.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Sep-2025 10:47:05.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\conf\logging.properties
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:47:05.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:47:05.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\temp
+03-Sep-2025 10:47:05.840 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Admin\AppData\Local\Programs\Python\Python312;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Git\cmd;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Users\Admin\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubernetes\Minikube;C:\Users\Admin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\flutter;C:\Program Files\Dart;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Admin\AppData\Local\Programs\Python\Launcher\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\GitHubDesktop\bin;C:\flutter\bin;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\bin;C:\Users\Admin\AppData\Local\Programs\cursor\resources\app\bin;.]
+03-Sep-2025 10:47:05.876 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:47:05.891 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1076)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:564)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:861)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:596)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:619)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:89)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:218)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:194)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1328)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1341)
+		at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:241)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:695)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:76)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1074)
+		... 11 more
+03-Sep-2025 10:47:05.892 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 443 ms
+03-Sep-2025 10:47:05.928 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Sep-2025 10:47:05.928 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.100]
+03-Sep-2025 10:47:05.942 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode.war]
+03-Sep-2025 10:47:13.318 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Sep-2025 10:47:26.488 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode.war] has finished in [20,545] ms
+03-Sep-2025 10:47:26.492 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\docs]
+03-Sep-2025 10:47:26.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\docs] has finished in [61] ms
+03-Sep-2025 10:47:26.553 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\examples]
+03-Sep-2025 10:47:27.466 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\examples] has finished in [913] ms
+03-Sep-2025 10:47:27.468 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\host-manager]
+03-Sep-2025 10:47:27.533 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\host-manager] has finished in [66] ms
+03-Sep-2025 10:47:27.533 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\manager]
+03-Sep-2025 10:47:27.604 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\manager] has finished in [70] ms
+03-Sep-2025 10:47:27.604 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ROOT]
+03-Sep-2025 10:47:27.655 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ROOT] has finished in [51] ms
+03-Sep-2025 10:47:27.661 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 21768 ms
+03-Sep-2025 10:47:27.664 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:444)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:730)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:678)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+03-Sep-2025 10:47:27.665 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:47:27.665 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Sep-2025 10:47:27.856 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ode] registered the JDBC driver [org.apache.derby.jdbc.AutoloadedDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Sep-2025 10:47:27.858 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [RetryTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.lang.Object.wait(Object.java:348)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:542)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:47:27.859 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [PoolIdleReleaseTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:568)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:47:27.861 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [RetryTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.lang.Object.wait(Object.java:348)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:542)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:47:27.900 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:47:27.902 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:48:46.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.100
+03-Sep-2025 10:48:46.372 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 19 2024 13:54:42 UTC
+03-Sep-2025 10:48:46.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.100.0
+03-Sep-2025 10:48:46.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+03-Sep-2025 10:48:46.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Sep-2025 10:48:46.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Sep-2025 10:48:46.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+03-Sep-2025 10:48:46.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.1+8-16
+03-Sep-2025 10:48:46.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Sep-2025 10:48:46.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:48:46.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:48:46.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Sep-2025 10:48:46.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Sep-2025 10:48:46.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Sep-2025 10:48:46.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Sep-2025 10:48:46.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Sep-2025 10:48:46.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\conf\logging.properties
+03-Sep-2025 10:48:46.376 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\temp
+03-Sep-2025 10:48:46.377 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Admin\AppData\Local\Programs\Python\Python312;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Git\cmd;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\IBM\SPSS\Statistics\25\JRE\bin;C:\Users\Admin\AppData\Local\Programs\Python\Python312\Scripts\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubernetes\Minikube;C:\Users\Admin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\flutter;C:\Program Files\Dart;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Admin\AppData\Local\Programs\Python\Launcher\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\GitHubDesktop\bin;C:\flutter\bin;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\bin;C:\Users\Admin\AppData\Local\Programs\cursor\resources\app\bin;.]
+03-Sep-2025 10:48:46.408 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:48:46.428 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 391 ms
+03-Sep-2025 10:48:46.465 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Sep-2025 10:48:46.466 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.100]
+03-Sep-2025 10:48:46.485 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode.war]
+03-Sep-2025 10:48:51.734 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+03-Sep-2025 10:49:02.993 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode.war] has finished in [16,508] ms
+03-Sep-2025 10:49:02.996 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\docs]
+03-Sep-2025 10:49:03.073 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\docs] has finished in [77] ms
+03-Sep-2025 10:49:03.074 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\examples]
+03-Sep-2025 10:49:03.880 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\examples] has finished in [806] ms
+03-Sep-2025 10:49:03.881 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\host-manager]
+03-Sep-2025 10:49:03.945 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\host-manager] has finished in [64] ms
+03-Sep-2025 10:49:03.947 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\manager]
+03-Sep-2025 10:49:03.993 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\manager] has finished in [47] ms
+03-Sep-2025 10:49:03.994 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ROOT]
+03-Sep-2025 10:49:04.020 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ROOT] has finished in [27] ms
+03-Sep-2025 10:49:04.026 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:49:04.059 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 17629 ms
+03-Sep-2025 10:49:04.064 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:565)
+		at java.base/sun.nio.ch.Net.bind(Net.java:554)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:390)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:277)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:444)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:730)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:678)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+03-Sep-2025 10:49:04.066 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:49:04.074 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Sep-2025 10:49:04.157 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ode] registered the JDBC driver [org.apache.derby.jdbc.AutoloadedDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+03-Sep-2025 10:49:04.158 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [RetryTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.lang.Object.wait(Object.java:348)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:542)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:49:04.158 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [PoolIdleReleaseTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:568)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:49:04.159 WARNING [localhost-startStop-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ode] appears to have started a thread named [RetryTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:375)
+ java.base/java.lang.Object.wait(Object.java:348)
+ java.base/java.util.TimerThread.mainLoop(Timer.java:542)
+ java.base/java.util.TimerThread.run(Timer.java:521)
+03-Sep-2025 10:49:04.188 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Sep-2025 10:49:04.200 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

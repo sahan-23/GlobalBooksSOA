@@ -1,0 +1,14 @@
+03-Sep-2025 10:47:14.445 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+03-Sep-2025 10:47:27.424 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Sep-2025 10:47:27.424 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Sep-2025 10:47:27.431 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1941c4ba')
+03-Sep-2025 10:47:27.688 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Sep-2025 10:47:27.688 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Sep-2025 10:47:27.851 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: destroy called
+03-Sep-2025 10:48:52.650 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+03-Sep-2025 10:49:03.859 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Sep-2025 10:49:03.859 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Sep-2025 10:49:03.862 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@207ba33c')
+03-Sep-2025 10:49:04.099 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Sep-2025 10:49:04.099 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Sep-2025 10:49:04.152 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: destroy called

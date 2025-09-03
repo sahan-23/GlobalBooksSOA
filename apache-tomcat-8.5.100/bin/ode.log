@@ -1,0 +1,44 @@
+10:47:16,181 INFO  [ModuleDeployer] Deploying module: addressing-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/addressing-1.7.6.mar
+10:47:16,220 INFO  [ModuleDeployer] Deploying module: metadataExchange-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/mex-1.7.6.mar
+10:47:16,247 INFO  [ModuleDeployer] Deploying module: rahas-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rahas-1.7.1.mar
+10:47:16,278 INFO  [ModuleDeployer] Deploying module: rampart-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rampart-1.7.1.mar
+10:47:20,661 INFO  [TCPTransportSender] TCP Sender started
+10:47:20,891 INFO  [DeploymentEngine] Deploying Web service: version.aar - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/services/version.aar
+10:47:20,953 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:47:21,646 INFO  [ODEServer] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:47:21,646 INFO  [Database] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:47:22,331 INFO  [DbConfStoreConnectionFactory] ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory
+10:47:22,332 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:47:23,411 INFO  [JdbcDelegate] Using database Apache Derby major version 10
+10:47:23,416 INFO  [JdbcDelegate] Using database dialect: DERBY
+10:47:25,490 INFO  [BpelServerImpl] BPEL Server Started.
+10:47:25,507 INFO  [SystemSchedulesConfig] SYSTEM CRON configuration: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml
+10:47:26,443 INFO  [DeploymentPoller] Poller started.
+10:47:26,443 INFO  [ODEServer] Process deployment polling started on path C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes.
+10:47:26,443 INFO  [ODEServer] ODE Service Engine has been started.
+10:47:26,445 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:47:27,813 INFO  [TCPTransportSender] TCP Sender Shutdown
+10:47:27,824 INFO  [BpelServerImpl] BPEL Server Stopped.
+10:47:27,850 INFO  [ODEServer] Shutdown completed. 
+10:48:54,057 INFO  [ModuleDeployer] Deploying module: addressing-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/addressing-1.7.6.mar
+10:48:54,102 INFO  [ModuleDeployer] Deploying module: metadataExchange-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/mex-1.7.6.mar
+10:48:54,132 INFO  [ModuleDeployer] Deploying module: rahas-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rahas-1.7.1.mar
+10:48:54,157 INFO  [ModuleDeployer] Deploying module: rampart-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rampart-1.7.1.mar
+10:48:57,893 INFO  [TCPTransportSender] TCP Sender started
+10:48:58,067 INFO  [DeploymentEngine] Deploying Web service: version.aar - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/services/version.aar
+10:48:58,137 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:48:58,897 INFO  [ODEServer] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:48:58,898 INFO  [Database] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:48:59,582 INFO  [DbConfStoreConnectionFactory] ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory
+10:48:59,583 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:49:00,201 INFO  [JdbcDelegate] Using database Apache Derby major version 10
+10:49:00,205 INFO  [JdbcDelegate] Using database dialect: DERBY
+10:49:01,953 INFO  [BpelServerImpl] BPEL Server Started.
+10:49:01,963 INFO  [SystemSchedulesConfig] SYSTEM CRON configuration: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml
+10:49:02,963 INFO  [DeploymentPoller] Poller started.
+10:49:02,964 INFO  [ODEServer] Process deployment polling started on path C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes.
+10:49:02,964 INFO  [ODEServer] ODE Service Engine has been started.
+10:49:02,965 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:49:04,110 INFO  [TCPTransportSender] TCP Sender Shutdown
+10:49:04,117 INFO  [BpelServerImpl] BPEL Server Stopped.
+10:49:04,151 INFO  [ODEServer] Shutdown completed. 
