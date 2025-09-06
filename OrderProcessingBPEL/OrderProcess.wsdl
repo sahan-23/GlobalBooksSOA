@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions
+    targetNamespace="http://wso2.org/bpel/sample"
+    xmlns:tns="http://wso2.org/bpel/sample"
+    xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <wsdl:types>
+        <xsd:schema targetNamespace="http://wso2.org/bpel/sample">
+            <xsd:element name="OrderRequest">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="productID" type="xsd:string"/>
+                        <xsd:element name="quantity" type="xsd:int"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="OrderResponse">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="confirmation" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:schema>
+    </wsdl:types>
+
+    <wsdl:message name="OrderRequestMessage">
+        <wsdl:part name="payload" element="tns:OrderRequest"/>
+    </wsdl:message>
+    <wsdl:message name="OrderResponseMessage">
+        <wsdl:part name="payload" element="tns:OrderResponse"/>
+    </wsdl:message>
+
+    <wsdl:portType name="OrderProcessPortType">
+        <wsdl:operation name="processOrder">
+            <wsdl:input message="tns:OrderRequestMessage"/>
+            <wsdl:output message="tns:OrderResponseMessage"/>
+        </wsdl:operation>
+    </wsdl:portType>
+
+    <wsdl:binding name="OrderProcessBinding" type="tns:OrderProcessPortType">
+        <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <wsdl:operation name="processOrder">
+            <soap:operation soapAction="urn:processOrder"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+
+    <wsdl:service name="OrderProcessService">
+        <wsdl:port name="OrderProcessPort" binding="tns:OrderProcessBinding">
+            <soap:address location="http://localhost:8080/ode/processes/OrderProcess"/>
+        </wsdl:port>
+    </wsdl:service>
+
+</wsdl:definitions>

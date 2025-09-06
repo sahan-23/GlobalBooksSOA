@@ -1,0 +1,9 @@
+2025-09-05 16:01:25,459 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-09-05 16:08:50,880 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.globalbooks:CatalogService:1.0-SNAPSHOT @ C:\Users\Admin\Desktop\GlobalBooksSOA\CatalogService\pom.xml.
+2025-09-05 16:08:52,823 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-05 16:08:52,832 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Desktop\GlobalBooksSOA\CatalogService\src\test\resources
+2025-09-05 16:08:53,409 [Worker-48: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.globalbooks:OrdersService:0.0.1-SNAPSHOT @ C:\Users\Admin\Desktop\GlobalBooksSOA\OrdersService\pom.xml.
+2025-09-05 16:08:53,658 [Worker-48: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.globalbooks:CatalogService:1.0-SNAPSHOT @ C:\Users\Admin\Desktop\GlobalBooksSOA\CatalogService\pom.xml.
+2025-09-05 16:08:57,348 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-05 16:08:57,414 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-05 16:08:57,418 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Admin\Desktop\GlobalBooksSOA\OrdersService\src\test\resources

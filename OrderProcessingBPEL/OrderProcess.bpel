@@ -1,0 +1,56 @@
+<bpel:process name="OrderProcess"
+    targetNamespace="http://wso2.org/bpel/sample"
+    suppressJoinFailure="yes"
+    xmlns:tns="http://wso2.org/bpel/sample"
+    xmlns:bpel="http://docs.oasis-open.org/wsbpel/2.0/process/executable"
+    xmlns:catalog="http://example.com/catalogservice"
+    xmlns:order="http://example.com/ordersservice">
+
+    <bpel:import namespace="http://wso2.org/bpel/sample" location="OrderProcess.wsdl" importType="http://schemas.xmlsoap.org/wsdl/"/>
+    <bpel:import namespace="http://example.com/catalogservice" location="CatalogService.wsdl" importType="http://schemas.xmlsoap.org/wsdl/"/>
+    <bpel:import namespace="http://example.com/ordersservice" location="OrdersService.wsdl" importType="http://schemas.xmlsoap.org/wsdl/"/>
+
+    <bpel:partnerLinks>
+        <bpel:partnerLink name="client" partnerLinkType="tns:OrderProcessPLT" myRole="orderProcessor"/>
+        <bpel:partnerLink name="catalogPartner" partnerLinkType="catalog:CatalogServicePLT" partnerRole="catalogProvider"/>
+        <bpel:partnerLink name="orderPartner" partnerLinkType="order:OrdersServicePLT" partnerRole="orderTaker"/>
+    </bpel:partnerLinks>
+
+    <bpel:variables>
+        <bpel:variable name="input" messageType="tns:OrderRequestMessage"/>
+        <bpel:variable name="output" messageType="tns:OrderResponseMessage"/>
+        <bpel:variable name="catalogRequest" messageType="catalog:GetProductDetailsRequest"/>
+        <bpel:variable name="catalogResponse" messageType="catalog:GetProductDetailsResponse"/>
+        </bpel:variables>
+
+    <bpel:sequence name="main">
+        <bpel:receive name="receiveInput" partnerLink="client" portType="tns:OrderProcessPortType" operation="processOrder" variable="input" createInstance="yes"/>
+
+        <bpel:assign name="prepareCatalogRequest">
+            <bpel:copy>
+                <bpel:from variable="input" part="payload" query="/tns:OrderRequest/tns:productID"/>
+                <bpel:to variable="catalogRequest" part="payload" query="/catalog:GetProductDetailsRequest/catalog:productID"/>
+            </bpel:copy>
+        </bpel:assign>
+
+        <bpel:invoke name="invokeCatalog" partnerLink="catalogPartner" portType="catalog:CatalogServicePortType" operation="getProductDetails" inputVariable="catalogRequest" outputVariable="catalogResponse"/>
+
+        <bpel:assign name="calculateTotalAndPrepareOrder">
+            </bpel:assign>
+
+        <bpel:assign name="prepareFinalResponse">
+            <bpel:copy>
+                <bpel:from>
+                    <bpel:literal>
+                        <tns:OrderResponse xmlns:tns="http://wso2.org/bpel/sample">
+                            <tns:confirmation>Order Received Successfully!</tns:confirmation>
+                        </tns:OrderResponse>
+                    </bpel:literal>
+                </bpel:from>
+                <bpel:to variable="output" part="payload"/>
+            </bpel:copy>
+        </bpel:assign>
+
+        <bpel:reply name="replyOutput" partnerLink="client" portType="tns:OrderProcessPortType" operation="processOrder" variable="output"/>
+    </bpel:sequence>
+</bpel:process>

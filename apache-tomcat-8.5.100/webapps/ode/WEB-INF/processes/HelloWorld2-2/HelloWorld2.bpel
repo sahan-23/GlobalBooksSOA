@@ -1,0 +1,45 @@
+<bpel:process name="HelloWorld2"
+              targetNamespace="http://hello.bpel.apache.org/sayHello/v1"
+              suppressJoinFailure="yes"
+              xmlns:tns="http://hello.bpel.apache.org/sayHello/v1"
+              xmlns:bpel="http://docs.oasis-open.org/wsbpel/2.0/process/executable"
+              xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <bpel:import namespace="http://hello.bpel.apache.org/sayHello/v1"
+                 location="HelloWorld2.wsdl"
+                 importType="http://schemas.xmlsoap.org/wsdl/"/>
+
+    <bpel:partnerLinks>
+        <bpel:partnerLink name="helloPartnerLink"
+                          partnerLinkType="tns:HelloPartnerLinkType"
+                          myRole="me"/>
+    </bpel:partnerLinks>
+
+    <bpel:variables>
+        <bpel:variable name="myVar" messageType="tns:HelloMessage"/>
+    </bpel:variables>
+
+    <bpel:sequence name="main">
+        <bpel:receive name="receiveInput"
+                      partnerLink="helloPartnerLink"
+                      portType="tns:HelloPortType"
+                      operation="hello"
+                      variable="myVar"
+                      createInstance="yes"/>
+
+        <bpel:assign name="assignOutput">
+            <bpel:copy>
+                <bpel:from expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath1.0">
+                    <![CDATA[concat($myVar.payload, ' World')]]>
+                </bpel:from>
+                <bpel:to variable="myVar" part="payload"/>
+            </bpel:copy>
+        </bpel:assign>
+
+        <bpel:reply name="replyOutput"
+                    partnerLink="helloPartnerLink"
+                    portType="tns:HelloPortType"
+                    operation="hello"
+                    variable="myVar"/>
+    </bpel:sequence>
+</bpel:process>

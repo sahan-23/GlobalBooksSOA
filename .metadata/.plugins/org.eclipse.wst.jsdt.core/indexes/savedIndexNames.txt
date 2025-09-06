@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\GlobalBooksSOA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1556173770.index
+1932909563.index
+285198397.index
+1393592711.index
+1702302634.index
+2209355603.index

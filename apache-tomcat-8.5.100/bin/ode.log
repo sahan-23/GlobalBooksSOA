@@ -42,3 +42,1414 @@
 10:49:04,110 INFO  [TCPTransportSender] TCP Sender Shutdown
 10:49:04,117 INFO  [BpelServerImpl] BPEL Server Stopped.
 10:49:04,151 INFO  [ODEServer] Shutdown completed. 
+10:51:34,475 INFO  [ModuleDeployer] Deploying module: addressing-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/addressing-1.7.6.mar
+10:51:34,520 INFO  [ModuleDeployer] Deploying module: metadataExchange-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/mex-1.7.6.mar
+10:51:34,544 INFO  [ModuleDeployer] Deploying module: rahas-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rahas-1.7.1.mar
+10:51:34,574 INFO  [ModuleDeployer] Deploying module: rampart-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rampart-1.7.1.mar
+10:51:38,548 INFO  [TCPTransportSender] TCP Sender started
+10:51:38,777 INFO  [DeploymentEngine] Deploying Web service: version.aar - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/services/version.aar
+10:51:38,862 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:51:39,677 INFO  [ODEServer] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:51:39,678 INFO  [Database] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+10:51:40,438 INFO  [DbConfStoreConnectionFactory] ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory
+10:51:40,439 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+10:51:41,228 INFO  [JdbcDelegate] Using database Apache Derby major version 10
+10:51:41,233 INFO  [JdbcDelegate] Using database dialect: DERBY
+10:51:43,126 INFO  [BpelServerImpl] BPEL Server Started.
+10:51:43,139 INFO  [SystemSchedulesConfig] SYSTEM CRON configuration: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml
+10:51:44,063 INFO  [DeploymentPoller] Poller started.
+10:51:44,063 INFO  [ODEServer] Process deployment polling started on path C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes.
+10:51:44,063 INFO  [ODEServer] ODE Service Engine has been started.
+10:51:44,066 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:52:14,076 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:52:44,088 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:53:14,098 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:53:44,112 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:54:14,123 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:54:44,134 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:55:14,147 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:55:44,156 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:56:14,178 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:56:44,191 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:57:14,204 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:57:44,215 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:58:14,226 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:58:44,232 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:59:14,240 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+10:59:44,248 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:00:14,259 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:00:44,270 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:01:14,286 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:01:17,107 INFO  [TCPTransportSender] TCP Sender Shutdown
+11:01:17,115 INFO  [BpelServerImpl] BPEL Server Stopped.
+11:01:17,149 INFO  [ODEServer] Shutdown completed. 
+11:10:55,066 INFO  [ModuleDeployer] Deploying module: addressing-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/addressing-1.7.6.mar
+11:10:55,103 INFO  [ModuleDeployer] Deploying module: metadataExchange-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/mex-1.7.6.mar
+11:10:55,120 INFO  [ModuleDeployer] Deploying module: rahas-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rahas-1.7.1.mar
+11:10:55,143 INFO  [ModuleDeployer] Deploying module: rampart-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rampart-1.7.1.mar
+11:10:58,882 INFO  [TCPTransportSender] TCP Sender started
+11:10:59,084 INFO  [DeploymentEngine] Deploying Web service: version.aar - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/services/version.aar
+11:10:59,162 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+11:10:59,877 INFO  [ODEServer] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+11:10:59,877 INFO  [Database] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+11:11:00,549 INFO  [DbConfStoreConnectionFactory] ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory
+11:11:00,550 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+11:11:01,248 INFO  [JdbcDelegate] Using database Apache Derby major version 10
+11:11:01,253 INFO  [JdbcDelegate] Using database dialect: DERBY
+11:11:02,990 INFO  [BpelServerImpl] BPEL Server Started.
+11:11:03,002 INFO  [SystemSchedulesConfig] SYSTEM CRON configuration: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml
+11:11:03,949 INFO  [DeploymentPoller] Poller started.
+11:11:03,949 INFO  [ODEServer] Process deployment polling started on path C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes.
+11:11:03,949 INFO  [ODEServer] ODE Service Engine has been started.
+11:11:03,952 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:11:33,964 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:12:03,971 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:12:33,983 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:13:03,999 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:13:34,014 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:14:04,028 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:14:34,040 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:15:04,051 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:15:34,066 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:16:04,081 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:16:34,093 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:17:04,109 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:17:34,118 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:18:04,128 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:18:34,141 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:19:04,153 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:19:34,161 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:20:04,175 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:20:34,185 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:21:04,196 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:21:34,214 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:22:04,226 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:22:34,233 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:23:04,244 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:23:34,254 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:24:04,271 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:24:34,280 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:25:04,291 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:25:34,301 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:26:04,317 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:26:34,325 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:27:04,334 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:27:34,344 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:28:04,354 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:28:34,367 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:29:04,377 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:29:34,386 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:30:04,396 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:30:34,404 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:31:04,412 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:31:34,420 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:32:04,432 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:32:34,445 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:33:04,456 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:33:34,465 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:34:04,476 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:34:34,484 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:35:04,495 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:35:34,508 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:36:04,517 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:36:34,525 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:37:04,535 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:37:34,546 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:38:04,558 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:38:34,566 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:39:04,573 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:39:34,596 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:40:04,606 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:40:34,616 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:41:04,626 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:41:34,642 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:42:04,653 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:42:34,666 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:43:04,676 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:43:34,692 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:44:04,701 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:44:34,710 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:45:04,724 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:45:34,733 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:46:04,751 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:46:34,759 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:47:04,771 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:47:34,783 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:48:04,797 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:48:34,802 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:49:04,819 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:49:34,829 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:50:04,840 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:50:34,849 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:51:04,857 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:51:34,865 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:52:04,874 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:52:34,883 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:53:04,893 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:53:34,905 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:54:04,913 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:54:34,922 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:55:04,939 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:55:34,968 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:56:04,986 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:56:34,994 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:57:05,010 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:57:35,045 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:58:05,062 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:58:35,074 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:59:05,080 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:59:35,094 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:00:05,107 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:00:35,120 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:01:05,157 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:01:35,176 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:02:05,189 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:02:35,206 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:03:05,216 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:03:35,224 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:04:05,233 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:04:35,245 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:05:05,252 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:05:35,264 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:06:05,279 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:06:35,290 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:07:05,304 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:07:35,319 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:08:05,332 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:08:35,344 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:09:05,356 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:09:35,376 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:10:05,387 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:10:35,401 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:11:05,413 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:11:35,450 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:12:05,456 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:12:35,469 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:13:05,477 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:13:35,517 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:14:05,536 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:14:35,584 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:14:36,343 INFO  [TCPTransportSender] TCP Sender Shutdown
+12:14:36,344 INFO  [BpelServerImpl] BPEL Server Stopped.
+12:14:36,377 INFO  [ODEServer] Shutdown completed. 
+18:49:39,379 INFO  [ModuleDeployer] Deploying module: addressing-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/addressing-1.7.6.mar
+18:49:39,436 INFO  [ModuleDeployer] Deploying module: metadataExchange-1.7.6 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/mex-1.7.6.mar
+18:49:39,461 INFO  [ModuleDeployer] Deploying module: rahas-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rahas-1.7.1.mar
+18:49:39,495 INFO  [ModuleDeployer] Deploying module: rampart-1.7.1 - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/modules/rampart-1.7.1.mar
+18:49:44,209 INFO  [TCPTransportSender] TCP Sender started
+18:49:44,481 INFO  [DeploymentEngine] Deploying Web service: version.aar - file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/services/version.aar
+18:49:44,624 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+18:49:45,636 INFO  [ODEServer] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+18:49:45,636 INFO  [Database] Using DAO Connection Factory class org.apache.ode.dao.jpa.BPELDAOConnectionFactoryImpl.
+18:49:46,420 INFO  [DbConfStoreConnectionFactory] ProcessStore initializing transaction manager using org.apache.ode.il.EmbeddedGeronimoFactory
+18:49:46,420 INFO  [EmbeddedGeronimoFactory] Using embedded Geronimo transaction manager
+18:49:47,193 INFO  [JdbcDelegate] Using database Apache Derby major version 10
+18:49:47,196 INFO  [JdbcDelegate] Using database dialect: DERBY
+18:49:49,702 INFO  [BpelServerImpl] BPEL Server Started.
+18:49:49,723 INFO  [SystemSchedulesConfig] SYSTEM CRON configuration: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml
+18:49:50,989 INFO  [DeploymentPoller] Poller started.
+18:49:50,989 INFO  [ODEServer] Process deployment polling started on path C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes.
+18:49:50,989 INFO  [ODEServer] ODE Service Engine has been started.
+18:49:50,997 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:50:21,035 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:50:44,758 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.axis2.OdeFault: The deployment doesn't appear to contain a deployment descriptor in its root directory named deploy.xml, aborting.
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:176) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+18:50:51,058 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:51:21,075 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:51:41,455 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.axis2.OdeFault: The deployment doesn't appear to contain a deployment descriptor in its root directory named deploy.xml, aborting.
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:176) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+18:51:51,095 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:52:21,110 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:52:51,135 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:53:21,151 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:53:51,169 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:54:21,215 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:54:51,232 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:55:21,251 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:55:21,897 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.axis2.OdeFault: The deployment doesn't appear to contain a deployment descriptor in its root directory named deploy.xml, aborting.
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:176) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+18:55:51,284 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:56:21,353 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:56:51,362 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:57:21,377 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:57:51,393 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:58:21,445 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:58:51,456 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:58:53,483 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.axis2.OdeFault: The deployment doesn't appear to contain a deployment descriptor in its root directory named deploy.xml, aborting.
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:176) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+18:59:21,470 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+18:59:51,486 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:00:21,526 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:00:51,553 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:01:21,612 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:01:51,629 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:02:21,646 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:02:51,660 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:03:21,683 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:03:51,698 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:04:21,715 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:04:51,758 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:05:21,774 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:05:51,790 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:06:17,959 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5". 
+19:06:18,594 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-5
+19:06:18,819 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.bpel.iapi.ContextException: Couldn't read deployment descriptor at location C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5\deploy.xml
+	at org.apache.ode.store.DeploymentUnitDir.getDeploymentDescriptor(DeploymentUnitDir.java:272) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.findBpel11Wsdl(DeploymentUnitDir.java:384) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:194) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:179) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: org.apache.xmlbeans.XmlException: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5\deploy.xml:0: error: The document is not a deploy@http://www.apache.org/ode/schemas/dd/2007/03: document element namespace mismatch expected "http://www.apache.org/ode/schemas/dd/2007/03" got "http://www.apache.org/ode/schemas/dd/2007/07"
+	at org.apache.xmlbeans.impl.store.Locale.verifyDocumentType(Locale.java:459) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.autoTypeDocument(Locale.java:364) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.parseToXmlObject(Locale.java:1280) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.parseToXmlObject(Locale.java:1264) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.schema.SchemaTypeLoaderBase.parse(SchemaTypeLoaderBase.java:345) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.schema.SchemaTypeLoaderBase.parse(SchemaTypeLoaderBase.java:252) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.ode.bpel.dd.DeployDocument$Factory.parse(DeployDocument.java:62) ~[ode-bpel-schemas-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.getDeploymentDescriptor(DeploymentUnitDir.java:269) ~[ode-bpel-store-1.3.8.jar:]
+	... 43 more
+19:06:21,891 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5". 
+19:06:21,892 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-5
+19:06:21,898 ERROR [DeploymentPoller] Deployment of HelloWorld2-5 failed, aborting for now.
+org.apache.ode.bpel.iapi.ContextException: Couldn't read deployment descriptor at location C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5\deploy.xml
+	at org.apache.ode.store.DeploymentUnitDir.getDeploymentDescriptor(DeploymentUnitDir.java:272) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.findBpel11Wsdl(DeploymentUnitDir.java:384) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:194) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.check(DeploymentPoller.java:160) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.access$300(DeploymentPoller.java:60) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller$PollingThread.run(DeploymentPoller.java:251) [ode-axis2-1.3.8.jar:]
+Caused by: org.apache.xmlbeans.XmlException: C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5\deploy.xml:0: error: The document is not a deploy@http://www.apache.org/ode/schemas/dd/2007/03: document element namespace mismatch expected "http://www.apache.org/ode/schemas/dd/2007/03" got "http://www.apache.org/ode/schemas/dd/2007/07"
+	at org.apache.xmlbeans.impl.store.Locale.verifyDocumentType(Locale.java:459) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.autoTypeDocument(Locale.java:364) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.parseToXmlObject(Locale.java:1280) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.store.Locale.parseToXmlObject(Locale.java:1264) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.schema.SchemaTypeLoaderBase.parse(SchemaTypeLoaderBase.java:345) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.xmlbeans.impl.schema.SchemaTypeLoaderBase.parse(SchemaTypeLoaderBase.java:252) ~[xmlbeans-2.6.0.jar:?]
+	at org.apache.ode.bpel.dd.DeployDocument$Factory.parse(DeployDocument.java:62) ~[ode-bpel-schemas-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.getDeploymentDescriptor(DeploymentUnitDir.java:269) ~[ode-bpel-store-1.3.8.jar:]
+	... 8 more
+19:06:21,900 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:06:24,901 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-5\deploy.xml] updated
+19:06:51,916 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:07:21,966 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:07:52,005 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:08:22,044 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:08:52,064 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:09:09,980 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-7". 
+19:09:10,064 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-7
+19:09:10,603 INFO  [BpelC] info: [CompilingProcess] Compiling BPEL process.
+19:09:11,016 ERROR [BpelC] file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+19:09:11,092 ERROR [BpelC] null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+19:09:11,102 ERROR [ProcessStoreImpl] Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:179) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+19:09:11,104 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.bpel.iapi.ContextException: Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:216) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:179) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	... 39 more
+19:09:13,078 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-7". 
+19:09:13,080 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-7
+19:09:13,099 INFO  [BpelC] info: [CompilingProcess] Compiling BPEL process.
+19:09:13,116 ERROR [BpelC] file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+19:09:13,118 ERROR [BpelC] null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+19:09:13,119 ERROR [ProcessStoreImpl] Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) [ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) [ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.check(DeploymentPoller.java:160) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.access$300(DeploymentPoller.java:60) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller$PollingThread.run(DeploymentPoller.java:251) [ode-axis2-1.3.8.jar:]
+19:09:13,119 ERROR [DeploymentPoller] Deployment of HelloWorld2-7 failed, aborting for now.
+org.apache.ode.bpel.iapi.ContextException: Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:216) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.check(DeploymentPoller.java:160) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.access$300(DeploymentPoller.java:60) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller$PollingThread.run(DeploymentPoller.java:251) [ode-axis2-1.3.8.jar:]
+Caused by: org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-7/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	... 4 more
+19:09:16,122 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-7\deploy.xml] updated
+19:09:22,132 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:09:35,972 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-9". 
+19:09:36,057 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-9
+19:09:36,086 INFO  [BpelC] info: [CompilingProcess] Compiling BPEL process.
+19:09:36,107 ERROR [BpelC] file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+19:09:36,108 ERROR [BpelC] null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+19:09:36,109 ERROR [ProcessStoreImpl] Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:179) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+19:09:36,111 WARN  [DeploymentWebService] Invocation of operation deploy failed
+org.apache.ode.bpel.iapi.ContextException: Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:216) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.service.DeploymentWebService$DeploymentMessageReceiver.invokeBusinessLogic(DeploymentWebService.java:179) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	... 39 more
+19:09:37,154 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-9". 
+19:09:37,155 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-9
+19:09:37,165 INFO  [BpelC] info: [CompilingProcess] Compiling BPEL process.
+19:09:37,177 ERROR [BpelC] file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+19:09:37,178 ERROR [BpelC] null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+19:09:37,178 ERROR [ProcessStoreImpl] Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) [ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) [ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.check(DeploymentPoller.java:160) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.access$300(DeploymentPoller.java:60) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller$PollingThread.run(DeploymentPoller.java:251) [ode-axis2-1.3.8.jar:]
+19:09:37,178 ERROR [DeploymentPoller] Deployment of HelloWorld2-9 failed, aborting for now.
+org.apache.ode.bpel.iapi.ContextException: Deploy failed; error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:216) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:179) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.check(DeploymentPoller.java:160) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller.access$300(DeploymentPoller.java:60) [ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.deploy.DeploymentPoller$PollingThread.run(DeploymentPoller.java:251) [ode-axis2-1.3.8.jar:]
+Caused by: org.apache.ode.bpel.compiler.api.CompilationException: error: [CompilationErrors] Compilation completed with 2 error(s):
+	file:/C:/Users/Admin/Desktop/GlobalBooksSOA/apache-tomcat-8.5.100/webapps/ode/WEB-INF/processes/HelloWorld2-9/HelloWorld2.bpel:31: error: [CopyToMessageFromNonMessage] Copy to message variable myVar requires a message for the r-value.
+	null:50: error: [UndeclaredVariable] Attempt to reference undeclared variable "input".
+
+	at org.apache.ode.bpel.compiler.BpelCompiler.compile(BpelCompiler.java:783) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:263) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.bpel.compiler.BpelC.compile(BpelC.java:333) ~[ode-bpel-compiler-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir$5.run(DeploymentUnitDir.java:204) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.utils.InternPool.runBlock(InternPool.java:57) ~[ode-utils-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:201) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.DeploymentUnitDir.compile(DeploymentUnitDir.java:162) ~[ode-bpel-store-1.3.8.jar:]
+	at org.apache.ode.store.ProcessStoreImpl.deploy(ProcessStoreImpl.java:212) ~[ode-bpel-store-1.3.8.jar:]
+	... 4 more
+19:09:40,181 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-9\deploy.xml] updated
+19:09:52,192 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:10:22,214 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:10:52,229 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:11:22,248 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:11:52,303 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:12:22,343 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:12:52,399 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:13:22,457 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:13:52,488 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:14:13,718 INFO  [ProcessStoreImpl] Starting deployment of processes from directory "C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-2". 
+19:14:13,792 INFO  [DeploymentUnitDir] Can't initialize beans.xml application context org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [beans.xml]; nested exception is java.io.FileNotFoundException: class path resource [beans.xml] cannot be opened because it does not exist for HelloWorld2-2
+19:14:13,813 INFO  [BpelC] info: [CompilingProcess] Compiling BPEL process.
+19:14:14,173 INFO  [ProcessStoreImpl] Process {http://hello.bpel.apache.org/sayHello/v1}HelloWorld2-2 deployed from "{http://hello.bpel.apache.org/sayHello/v1}HelloWorld2-2".
+19:14:14,824 INFO  [WatchDog] [Endpoint files for {DeploymentUnit HelloWorld2-2}] updated
+19:14:15,007 INFO  [BpelServerImpl] Registered process {http://hello.bpel.apache.org/sayHello/v1}HelloWorld2-2.
+19:14:15,008 INFO  [DeploymentWebService] Deployment of artifact HelloWorld2-2 successful.
+19:14:16,518 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\processes\HelloWorld2-2\deploy.xml] updated
+19:14:22,526 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:14:52,553 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:15:22,578 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:15:52,607 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:16:22,636 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:16:52,665 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:17:22,689 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:17:52,720 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:18:22,746 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:18:52,805 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:19:22,844 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:19:52,877 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:20:22,919 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:20:52,955 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:21:22,987 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:21:53,016 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:22:23,044 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:22:53,098 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:23:23,134 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:23:53,198 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:24:23,240 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:24:30,954 ERROR [ODEService] Exception occured while invoking ODE
+org.apache.ode.axis2.OdeFault: SOAP body does not contain required part: payload.
+	at org.apache.ode.axis2.util.SoapMessageConverter.extractSoapBodyParts(SoapMessageConverter.java:395) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.util.SoapMessageConverter.parseSoapRequest(SoapMessageConverter.java:326) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.ODEService.onAxisMessageExchange(ODEService.java:120) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.hooks.ODEMessageReceiver.invokeBusinessLogic(ODEMessageReceiver.java:69) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.ode.axis2.hooks.ODEMessageReceiver.invokeBusinessLogic(ODEMessageReceiver.java:52) ~[ode-axis2-1.3.8.jar:]
+	at org.apache.axis2.receivers.AbstractMessageReceiver.receive(AbstractMessageReceiver.java:106) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:169) ~[axis2-kernel-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.HTTPTransportUtils.processHTTPPostRequest(HTTPTransportUtils.java:178) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:163) ~[axis2-transport-http-1.7.6.jar:1.7.6]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:515) ~[servlet-api.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:583) ~[servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.logging.log4j.web.Log4jServletFilter.doFilter(Log4jServletFilter.java:71) ~[log4j-web-2.3.jar:2.3]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:679) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[catalina.jar:8.5.100]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) ~[catalina.jar:8.5.100]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:617) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:934) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1690) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-coyote.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-util.jar:8.5.100]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-util.jar:8.5.100]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+Caused by: java.lang.IllegalArgumentException: SOAP body does not contain required part: payload.
+	at org.apache.ode.utils.wsdl.Messages.msgSOAPBodyDoesNotContainRequiredPart(Messages.java:146) ~[ode-utils-1.3.8.jar:]
+	... 42 more
+19:24:53,273 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:25:23,301 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:25:53,330 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:26:23,368 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:26:53,409 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:27:23,487 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:27:53,542 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:28:23,582 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:28:53,616 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:29:23,647 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:29:53,809 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:30:23,841 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:30:53,890 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:31:23,918 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:31:53,949 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:32:23,992 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:32:54,060 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:33:24,099 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:33:54,161 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:34:24,195 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:34:54,240 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:35:24,266 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:35:54,326 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:36:24,364 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:36:54,405 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:37:24,437 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:37:54,468 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:38:24,536 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:38:54,595 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:39:24,623 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:39:54,650 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:40:24,708 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:40:54,757 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:41:24,784 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:41:54,861 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:42:24,928 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:42:54,965 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:43:24,995 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:43:55,025 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:44:25,047 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:44:55,081 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:45:25,116 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:45:55,157 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:46:25,183 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:46:55,218 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:47:25,248 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:47:55,266 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:48:25,291 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:48:55,322 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:49:25,351 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:49:55,381 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:50:25,412 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:50:55,440 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:51:25,469 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:51:55,498 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:52:25,525 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:52:55,550 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:53:25,576 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:53:55,600 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:54:25,627 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:54:55,654 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:55:25,677 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:55:55,719 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:56:25,750 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:56:55,789 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:57:25,815 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:57:55,844 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:58:25,869 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:58:55,905 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:59:25,931 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+19:59:55,962 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:00:25,993 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:00:56,041 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:01:26,068 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:01:56,097 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:02:26,130 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:02:56,161 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:03:26,192 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:03:56,220 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:04:26,246 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:04:56,273 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:05:26,308 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:05:56,343 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:06:26,373 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:06:56,402 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:07:26,427 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:07:56,456 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:08:26,491 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:08:56,527 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:09:26,557 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:09:56,589 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:10:26,618 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:10:56,651 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:11:26,674 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:11:56,702 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:12:26,735 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:12:56,762 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:13:26,788 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:13:56,818 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:14:26,848 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:14:56,879 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:15:26,910 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:15:56,940 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:16:26,970 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:16:57,002 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:17:27,031 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:17:57,063 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:18:27,092 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:18:57,124 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:19:27,151 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:19:57,181 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:20:27,212 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:20:57,243 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:21:27,271 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:21:57,305 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:22:27,333 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:22:57,364 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:23:27,390 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:23:57,420 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:24:27,454 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:24:57,482 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:25:27,512 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:25:57,541 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:26:27,569 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+20:26:57,599 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:28:15,238 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:28:45,424 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:29:15,474 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:29:45,504 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:30:15,536 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:30:45,585 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:31:15,637 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:31:45,695 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:32:15,722 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:32:45,754 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:33:15,809 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:33:45,839 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:34:15,865 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:34:45,887 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:35:15,936 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:35:45,967 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:36:16,014 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:36:46,048 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:37:16,098 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:37:46,129 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:38:16,162 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:38:46,189 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:39:16,231 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:39:46,253 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:40:16,299 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:40:46,352 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:41:16,424 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:41:46,450 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:42:16,509 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:42:46,540 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:43:16,568 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:43:46,619 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:44:16,648 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:44:46,699 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:45:16,729 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:45:46,758 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:46:16,789 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:46:46,864 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:47:16,896 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:47:46,938 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:48:16,990 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:48:47,058 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:49:17,108 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:49:47,173 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:50:17,200 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:50:47,276 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:51:17,323 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:51:47,361 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:52:17,394 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:52:47,426 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:53:17,464 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:53:47,505 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:54:17,546 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:54:47,584 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:55:17,637 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:55:47,684 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:56:17,719 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:56:47,753 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:57:17,796 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:57:47,853 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:58:17,912 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:58:47,977 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:59:18,006 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+00:59:48,040 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:00:18,077 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:00:48,115 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:01:18,146 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:01:48,183 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:02:18,233 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:02:48,269 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:03:18,314 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:03:48,361 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:04:18,397 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:04:48,428 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:05:18,459 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:05:48,494 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:06:18,542 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:06:48,594 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:07:18,631 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:07:48,660 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:08:18,689 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:08:48,724 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:09:18,753 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:09:48,783 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:10:18,807 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:10:48,852 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:11:18,904 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:11:48,923 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:12:18,958 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:12:49,000 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:13:19,032 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:13:49,097 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:14:19,132 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:14:49,162 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:15:19,228 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:15:49,336 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:16:19,364 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:16:49,412 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:17:19,444 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:17:49,518 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:18:19,549 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:18:49,591 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:19:19,615 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:19:49,647 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:20:19,685 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:20:49,711 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:21:19,745 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:21:49,771 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:22:19,818 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:22:49,871 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:23:19,904 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:23:49,963 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:24:19,995 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:24:50,048 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:25:20,080 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:25:50,113 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:26:20,166 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:26:50,234 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:27:20,325 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:27:50,384 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:28:20,409 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:28:50,439 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:29:20,470 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:29:50,503 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:30:20,551 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:30:50,583 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:31:20,618 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:31:50,661 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:32:20,691 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:32:50,717 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:33:20,740 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:33:50,772 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:34:20,799 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:34:50,829 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:35:20,858 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:35:50,890 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:36:21,011 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:36:51,038 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:37:21,068 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:37:51,095 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:38:21,130 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:38:51,159 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:39:21,189 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:39:51,227 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:40:21,255 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:40:51,291 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:41:21,327 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:41:51,360 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:42:21,386 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:42:51,414 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:43:21,564 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:43:51,593 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:44:21,627 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:44:51,655 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:45:21,678 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:45:51,707 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:46:21,764 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:46:51,789 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:47:21,817 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:47:51,840 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:48:21,865 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:48:51,901 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:49:21,929 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:49:51,964 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:50:21,995 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:50:52,029 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:51:22,065 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:51:52,107 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:52:22,134 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:52:52,167 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:53:22,190 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:53:52,219 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:54:22,248 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:54:52,273 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:55:22,303 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:55:52,335 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:56:22,401 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:56:52,424 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:57:22,496 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:57:52,522 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:58:22,578 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:58:52,603 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:59:22,643 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+01:59:52,671 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+02:00:22,703 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:12:25,682 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:12:55,732 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:13:25,804 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:13:57,586 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:14:27,619 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:14:57,653 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:15:27,692 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:15:57,732 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:16:27,786 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:16:57,821 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:17:27,872 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:17:57,908 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:18:27,987 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:18:58,017 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:19:28,069 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:19:58,093 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:20:28,159 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:20:58,235 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:21:28,265 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:21:58,296 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:22:28,330 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:22:58,364 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:23:28,419 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:23:58,451 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:24:28,485 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:24:58,562 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:25:28,594 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:25:58,628 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:26:28,697 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:26:58,783 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:27:28,821 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:27:58,863 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:28:28,897 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:28:58,921 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:29:28,970 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:29:59,000 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:30:29,049 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:30:59,103 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:31:29,175 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:31:59,209 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:32:29,276 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:32:59,318 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:33:29,354 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:33:59,397 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:34:29,431 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:34:59,513 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:35:29,553 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:35:59,579 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:36:29,611 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:36:59,648 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:37:29,677 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:37:59,705 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:38:29,735 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:38:59,761 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:39:29,790 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:39:59,827 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:40:29,886 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:40:59,924 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:41:29,950 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:41:59,981 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:42:30,010 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:43:00,040 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:43:30,073 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:44:00,102 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:44:30,136 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:45:00,167 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:45:30,197 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:46:00,226 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:46:30,274 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:47:00,326 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:47:30,376 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:48:00,411 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:48:30,447 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:49:00,481 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:49:30,508 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:50:00,562 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:50:30,589 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:51:00,624 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:51:30,657 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:52:00,686 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:52:30,744 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:53:00,785 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:53:30,817 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:54:00,855 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:54:30,893 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:55:00,924 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:55:30,952 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:56:00,994 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:56:31,054 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:57:01,096 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:57:31,128 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:58:01,169 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:58:31,198 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:59:01,227 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+11:59:31,254 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:00:01,283 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:00:31,310 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:01:01,344 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:01:31,404 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:02:01,441 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:02:31,479 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:03:01,514 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:03:31,544 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:04:01,586 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:04:31,619 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:05:01,657 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:05:31,712 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:06:01,749 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:06:31,778 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:07:01,810 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:07:31,840 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:08:01,871 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:08:31,904 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:09:01,936 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:09:31,976 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:10:02,022 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:10:32,068 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:11:02,090 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:11:32,119 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:12:02,162 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:12:32,200 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:13:02,236 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:13:32,264 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:14:02,295 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:14:32,329 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:15:02,367 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:15:32,400 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:16:02,428 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:16:32,452 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:17:02,478 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:17:32,506 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:18:02,539 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:18:32,570 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:19:02,610 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:19:32,636 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:20:02,662 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:20:32,687 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:21:02,709 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:21:32,746 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:22:02,774 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:22:32,808 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:23:02,840 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:23:32,867 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:24:02,899 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:24:32,929 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:25:02,963 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:25:32,998 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:26:03,029 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:26:33,053 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:27:03,083 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:27:33,124 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:28:03,160 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:28:33,191 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:29:03,217 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:29:33,244 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:30:03,275 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:30:33,304 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:31:03,371 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:31:33,405 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:32:03,437 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:32:33,478 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:33:03,520 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:33:33,595 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:34:03,641 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:34:33,671 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:35:03,717 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:35:33,753 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:36:03,785 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:36:33,816 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:37:03,848 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:37:33,880 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:38:03,912 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:38:33,943 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:39:03,972 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:39:34,005 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:40:04,035 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:40:34,064 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:41:04,088 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:41:34,118 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:42:04,144 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:42:34,174 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:43:04,231 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:43:34,265 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:44:04,294 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:44:34,321 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:45:04,347 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:45:34,376 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:46:04,409 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:46:34,440 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:47:04,470 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:47:34,499 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized
+12:48:04,540 INFO  [WatchDog] [C:\Users\Admin\Desktop\GlobalBooksSOA\apache-tomcat-8.5.100\webapps\ode\WEB-INF\conf\schedules.xml] initialized

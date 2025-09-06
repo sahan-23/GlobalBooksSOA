@@ -1,0 +1,40 @@
+<wsdl:definitions
+    targetNamespace="http://hello.bpel.apache.org/sayHello/v1"
+    xmlns:tns="http://hello.bpel.apache.org/sayHello/v1"
+    xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+
+    <wsdl:message name="HelloMessage">
+        <wsdl:part name="payload" type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
+    </wsdl:message>
+
+    <wsdl:portType name="HelloPortType">
+        <wsdl:operation name="hello">
+            <wsdl:input message="tns:HelloMessage"/>
+            <wsdl:output message="tns:HelloMessage"/>
+        </wsdl:operation>
+    </wsdl:portType>
+
+    <wsdl:binding name="HelloBinding" type="tns:HelloPortType">
+        <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <wsdl:operation name="hello">
+            <soap:operation soapAction="hello"/>
+            <wsdl:input>
+                <soap:body use="literal" namespace="http://hello.bpel.apache.org/sayHello/v1"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal" namespace="http://hello.bpel.apache.org/sayHello/v1"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+
+    <wsdl:service name="HelloService">
+        <wsdl:port name="HelloPort" binding="tns:HelloBinding">
+            <soap:address location="http://localhost:8080/ode/processes/hello"/>
+        </wsdl:port>
+    </wsdl:service>
+
+    <plnk:partnerLinkType name="HelloPartnerLinkType" xmlns:plnk="http://docs.oasis-open.org/wsbpel/2.0/plnktype">
+        <plnk:role name="me" portType="tns:HelloPortType"/>
+    </plnk:partnerLinkType>
+</wsdl:definitions>
