@@ -66,7 +66,7 @@ Each service is an independent project and must be run separately.
 1.  **`CatalogService` (SOAP):**
     - Navigate to the `CatalogService` project folder.
     - Run the `main` method in the `CatalogPublisher.java` class.
-    - The service will be available at: `http://localhost:9999/ws/catalog`
+    - The service will be available at: `http://localhost:8080/ws/catalog`
 
 2.  **`OrdersService` (REST):**
     - Navigate to the `OrdersService` project folder.
